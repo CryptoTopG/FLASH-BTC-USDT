@@ -6,6 +6,8 @@
 
 ## Overview
 
+# 🪄 NEW UPDATE: Now powered by AI, Rapid Flasher is the first flashing tool to be fully powered by AI technologies
+
 Rapid Flasher is a powerful tool for Bitcoin and USDT flashing, it has an easy to use interface.
 
 ## Features
