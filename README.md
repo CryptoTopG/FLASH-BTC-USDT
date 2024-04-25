@@ -23,5 +23,5 @@ Rapid Flasher is a powerful tool for Bitcoin and USDT flashing, it has an easy t
 2. Install Rapid Flasher
 3. Start flashing!
 
-⚠️ contact @cryptoTopG to purchase license
+⚠️ contact @Decoy_mail tele to purchase license
 
